@@ -1,4 +1,4 @@
-[Google drive](https://drive.google.com/drive/folders/1_Oo6kxpLXmGmUeHWIKVzR4QAPgET3ASg?usp=share_link)
+[Google drive](https://drive.google.com/drive/folders/1nRI0VuIooik_tJILDL03_vAkrR6kuYEz?usp=sharing)
 
 Директория [**scripts**](https://github.com/msmkv/mlOps_urfu/tree/main/task4/scripts)
 
