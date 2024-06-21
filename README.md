@@ -1,6 +1,6 @@
 [Google drive](https://drive.google.com/drive/folders/1nRI0VuIooik_tJILDL03_vAkrR6kuYEz?usp=sharing)
 
-Директория [**scripts**](https://github.com/KatriTaratuta/task4_mlops/scripts)
+Директория [**scripts**](https://github.com/KatriTaratuta/task4_mlops/tree/main/scripts)
 
 Чтобы запустить:
 
